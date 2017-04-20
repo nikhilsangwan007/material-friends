@@ -1,1 +1,1 @@
-angular.module('app', ['ngMaterial', 'ngAria', 'indexCtrl']);
+angular.module('app', ['ngMaterial', 'ngAria', 'ngMdIcons', 'indexCtrl', 'dataService']);

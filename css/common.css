@@ -1,10 +1,35 @@
+*:focus {
+    outline: none;
+}
 body {
     margin: 0px !important;
 }
 .toolbar {
     
+    text-align: center;
+}
+.brand {
 }
 .mainContent {
-    background: lightblue;
-    color: white;
+    overflow: hidden;
+    padding: 20px;
+    color: grey;
+}
+.menuBtn {
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 13em;
+    text-align: left;
+    padding: 10px;
+    width: auto;
+}
+.personImage {
+    border-radius: 999px;
+    object-fit: cover;
+    vertical-align: middle;
+}
+.share {
+    position: absolute;
+    right: 15px;
+    top: 15px;
 }

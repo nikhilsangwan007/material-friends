@@ -1,0 +1,44 @@
+[
+    {
+        "name" : "Nikhil Sangwan",
+        "age" : 21,
+        "email" : "nikhil.sangwan95@gmail.com",
+        "imageUrl" : "./images/p1.jpg",
+        "desc" : "hi I am Nikhil Sangwan"
+    },
+    {
+        "name" : "Aditya Dua",
+        "age" : 21,
+        "email" : "",
+        "imageUrl" : "./images/p2.jpg",
+        "desc" : "my name is Aditya Dua"
+    },
+    {
+        "name" : "Shonak Sarkar",
+        "age" : 21,
+        "email" : "shonak1995@gmail.com",
+        "imageUrl" : "./images/p3.jpg", 
+        "desc" : "shonak is here"
+    },
+    {
+        "name" : "Sachin",
+        "age" : 20,
+        "email" : "sachin@gmail.com",
+        "imageUrl" : "./images/p4.jpg",
+        "desc" : "hello i am sachin"
+    },
+    {
+        "name" : "Himanshu",
+        "age" : 21,
+        "email" : "mota@gmail.com",
+        "imageUrl" : "./images/p3.jpg",
+        "desc" : "i am mota tuntun"
+    },
+    {
+        "name" : "Gaurav Garg",
+        "age" : 21,
+        "email" : "gg1996@gmail.com",
+        "imageUrl" : "./images/p2.jpg",
+        "desc" : "20 meter biceps"
+    }
+]
