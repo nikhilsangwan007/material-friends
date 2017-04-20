@@ -24,12 +24,10 @@ angular.module('indexCtrl', [])
             
             function bottomSheetCtrl() {
                 $rootScope.user = share;
-                console.log($scope.user);
             }
         } 
         
         $scope.toggleList = function() {
-            console.log('enter toggle');
             $mdSidenav('left').toggle();
         }
 });

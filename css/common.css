@@ -33,3 +33,9 @@ body {
     right: 15px;
     top: 15px;
 }
+.share:hover {
+    cursor: pointer;
+}
+.bottomName {
+    font-weight: bolder;
+}
