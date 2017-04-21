@@ -1,0 +1,9 @@
+{
+  "name" : "materialFriends",
+  "short_name" : "mFriends",
+  "theme_color" : "brown",
+  "background_color" : "#fff",
+  "display" : "fullscreen",
+  "orientation" : "portrait",
+  "start_url" : "/material-friends"
+}
