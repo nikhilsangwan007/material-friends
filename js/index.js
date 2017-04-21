@@ -2,6 +2,6 @@ angular.module('app', ['ngMaterial', 'ngAria', 'ngMdIcons', 'indexCtrl', 'dataSe
 
     .config(function($mdThemingProvider) {
     $mdThemingProvider.theme('default')
-    .primaryPalette('brown')
-    .accentPalette('red');
+    .primaryPalette('blue')
+    .accentPalette('blue');
 })

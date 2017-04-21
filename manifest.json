@@ -1,7 +1,7 @@
 {
   "name" : "materialFriends",
   "short_name" : "mFriends",
-  "theme_color" : "brown",
+  "theme_color" : "blue",
   "background_color" : "#fff",
   "display" : "fullscreen",
   "orientation" : "portrait",
